@@ -1,0 +1,26 @@
+{
+  "name": "pong-walkthrough-2021-judai-uchiha",
+  "version": "1.0.0",
+  "description": "\"Hello World!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "command",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Judai-Uchiha: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@github.com/SLHSCS/pong-walkthrough-2021-Judai-Uchiha.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Jaden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLHSCS/pong-walkthrough-2021-Judai-Uchiha/issues"
+  },
+  "homepage": "https://github.com/SLHSCS/pong-walkthrough-2021-Judai-Uchiha#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63"
+  }
+}
